@@ -1,16 +1,16 @@
 Consignes :
 
-- Sur index.php, remplacer "Votre nom" dans la méthode $humain->setNom() par votre prénom.
-- Ajouter à la classe personnage une propriété protégée $vie
-- Faire en sorte que sur ma classe personnage, la propriété $vie soit égale à 50
-- Dans la classe dragon, la propriété $vie devra être redéfinie pour être égale à 100
-- sur index.php , afficher la valeur de la propriété $vie pour l'instance de la classe personnage
-- sur index.php, afficher la valeur de la propriété $vie pour l'instance de la classe dragon
+***- Sur index.php, remplacer "Votre nom" dans la méthode $humain->setNom() par votre prénom.***
+***- Ajouter à la classe personnage une propriété protégée $vie***
+***- Faire en sorte que sur ma classe personnage, la propriété $vie soit égale à 50***
+***- Dans la classe dragon, la propriété $vie devra être redéfinie pour être égale à 100***
+***- sur index.php , afficher la valeur de la propriété $vie pour l'instance de la classe personnage***
+***- sur index.php, afficher la valeur de la propriété $vie pour l'instance de la classe dragon***
 
-- Créer une nouvelle classe ayant pour nom "princesse" dans un nouveau fichier appelé princesse.php que vous placerez dans le
- dossier classes
- - Cette classe doit hériter de la classe personnage
- - N'oubliez pas de la require à la suite dans le fichier index.php
+***- Créer une nouvelle classe ayant pour nom "princesse" dans un nouveau fichier appelé princesse.php que vous placerez dans le
+ dossier classes***
+ ***- Cette classe doit hériter de la classe personnage***
+ ***- N'oubliez pas de la require à la suite dans le fichier index.php***
  - Vous ajouterez une propriété à cette classe, $saved qui par défaut vaudra 0 ou false,celle ci aura une portée "private"
  - Vous redéfinirez également les propriétés x et y de cette classe lorsqu'elle est instanciée, par défaut $x = 450, $y = 450
 
