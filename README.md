@@ -11,8 +11,8 @@ Consignes :
  dossier classes***
  ***- Cette classe doit hériter de la classe personnage***
  ***- N'oubliez pas de la require à la suite dans le fichier index.php***
- - Vous ajouterez une propriété à cette classe, $saved qui par défaut vaudra 0 ou false,celle ci aura une portée "private"
- - Vous redéfinirez également les propriétés x et y de cette classe lorsqu'elle est instanciée, par défaut $x = 450, $y = 450
+ ***- Vous ajouterez une propriété à cette classe, $saved qui par défaut vaudra 0 ou false,celle ci aura une portée "private"***
+ ***- Vous redéfinirez également les propriétés x et y de cette classe lorsqu'elle est instanciée, par défaut $x = 450, $y = 450***
 
 
 
